@@ -1,0 +1,7 @@
+= Module-2 documentation Site and Playbook Project
+// :idprefix:
+// :idseparator: -
+// URIs:
+
+== Copyright and License
+Copyright (C) 2018 Nicol@s.

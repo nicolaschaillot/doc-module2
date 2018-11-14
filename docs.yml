@@ -1,0 +1,6 @@
+name: module-2
+title: Mon module 2
+version: 1.0.0
+start_page: ROOT:home-module-2.adoc
+nav:
+- modules/ROOT/nav.adoc
